@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Crece Ya - Plataforma de Capacitación</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <h1>Crece Ya</h1>
+        </div>
+        <nav>
+            <ul>
+                <li><a href="#">Inicio</a></li>
+                <li><a href="#">Cursos</a></li>
+                <li><a href="#">Iniciar Sesión</a></li>
+                <li><a href="#">Registrarse</a></li>
+                <li><a href="#">Contacto</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="hero">
+        <h2>Desarrolla tus habilidades y crece profesionalmente</h2>
+        <p>Aprende a tu propio ritmo con nuestros cursos certificados.</p>
+        <a href="#" class="cta-button">Explora Nuestros Cursos</a>
+    </section>
+
+    <section class="benefits">
+        <div class="benefit">
+            <h3>Flexibilidad</h3>
+            <p>Estudia desde cualquier lugar y a cualquier hora.</p>
+        </div>
+        <div class="benefit">
+            <h3>Certificación</h3>
+            <p>Recibe certificados oficiales al completar tus cursos.</p>
+        </div>
+        <div class="benefit">
+            <h3>Accesibilidad</h3>
+            <p>Cursos disponibles 24/7 en cualquier dispositivo.</p>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Crece Ya. Todos los derechos reservados.</p>
+    </footer>
+</body>
+</html>
